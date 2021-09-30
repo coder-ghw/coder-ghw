@@ -50,4 +50,4 @@
 
 [2. cmake 跨平台框架](https://github.com/psiha/build)
 
-[3. cmake 例子][(https://github.com/ttroy50/cmake-examples)
+[3. cmake 例子](https://github.com/ttroy50/cmake-examples)
