@@ -4,7 +4,7 @@
 
 ### 学习内容分类
 #### 图像基础
-[1.图像处理100问](https://github.com/gzr2017/ImageProcessing100Wen)
+[1. 图像处理100问](https://github.com/gzr2017/ImageProcessing100Wen)
 
 [2. 图像去噪声方法总结](https://github.com/wenbihan/reproducible-image-denoising-state-of-the-art)
 #### 图像特征相关
