@@ -1,7 +1,8 @@
 ### 个人介绍
-出生年月：198904 现居：上海市松江，本科毕业于河南理工大学，专业机械自动及自动化，硕士就读于上海大学，专业是机械工程，研究方向是工业机器人视觉检测及测量。曾在上海微电子装备有限公司从事开发手机屏幕检测类的项目，现在一家传感器公司从事指纹图像预处理及指纹识别软件及算法的开发，熟悉基础图象操作，在图像预处理，2d图像特征提取，图像匹配方面比较擅长。
+出生年月：198904 现居：上海市松江，本科毕业于河南理工大学，专业机械自动及自动化，硕士就读于上海大学，专业是机械工程，研究方向是工业机器人视觉检测及测量。
+曾在上海微电子装备有限公司从事开发手机屏幕检测类的项目，现在一家传感器公司从事指纹图像预处理及指纹识别软件及算法的开发，熟悉基础图象操作，在图像预处理，2d图像特征提取，图像匹配方面比较擅长。
 
-### 学习参考
+### 学习内容分类
 #### 图像基础
 [1.图像处理100问](https://github.com/gzr2017/ImageProcessing100Wen)
 
@@ -11,11 +12,13 @@
 
 [2. c代码实现的图像处理库](https://github.com/liuliu/ccv)
 
-[3.sift原理理解](https://github.com/rmislam/PythonSIFT)
+[3. sift原理理解](https://github.com/rmislam/PythonSIFT)
 #### 机器学习
 [1. 机器学习的C++实现](https://github.com/davisking/dlib)
 
 [2. 机器学习笔记](https://github.com/Sakura-gh/ML-notes)
+
+[3. 吴恩达老师的机器学习笔记](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes)
 #### 深度学习
 [1. 足够简单的深度学习的框架](https://github.com/geohot/tinygrad)
 
@@ -43,6 +46,6 @@
 
 [4. 李航统计学习方法代码实现03-star最多](https://github.com/Dod-o/Statistical-Learning-Method_Code)
 #### 其他工具
-[1.cmake 工具收集](https://github.com/rpavlik/cmake-modules)
+[1. cmake 工具收集](https://github.com/rpavlik/cmake-modules)
 
 [2. cmake 跨平台框架](https://github.com/psiha/build)
