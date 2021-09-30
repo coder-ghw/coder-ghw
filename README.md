@@ -49,3 +49,5 @@
 [1. cmake 工具收集](https://github.com/rpavlik/cmake-modules)
 
 [2. cmake 跨平台框架](https://github.com/psiha/build)
+
+[3. cmake 例子][(https://github.com/ttroy50/cmake-examples)
