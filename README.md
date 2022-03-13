@@ -17,7 +17,7 @@ class AlgorithmEngineer:
         print("Thanks for dropping by, hope you find some of my work interesting.")
 
 
-me = SoftwareEngineer()
+me = AlgorithmEngineer()
 me.say_hi()
 ```
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coder-ghw&label=Profile%20views&color=0e75b6&style=flat" alt="coder-ghw" /> </p>
